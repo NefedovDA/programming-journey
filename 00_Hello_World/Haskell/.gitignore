@@ -1,0 +1,8 @@
+.stack-work/
+*~
+
+stack.yaml.lock
+hello-world.iml
+hello-world.cabal
+
+out/
